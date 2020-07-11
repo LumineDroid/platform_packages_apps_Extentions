@@ -21,4 +21,8 @@
     <string name="extentions_quicksettings_summary">Quick Settings customization</string>  
     <string name="extentions_statusbar_summary">Status bar preferences</string>
 
+    <!-- Status bar Icon Manager -->
+    <string name="icon_manager_title">Icon manager</string>
+    <string name="icon_manager_summary">Control visibility of status bar icons</string>
+
 </resources>
