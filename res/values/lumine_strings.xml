@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2025 LumineDroid
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Extentions -->
+    <string name="extentions_title">Extentions</string>
+    <string name="extentions_summary">Add powerful features to customize and enhance your Android experience.</string>
+
+    <!-- Categories -->
+    <string name="extentions_lockscreen_title">Lock screen</string>
+    <string name="extentions_misc_title">Miscellaneous</string>
+    <string name="extentions_navigation_title">Navigation bar</string>
+    <string name="extentions_quicksettings_title">Quick Settings</string>
+    <string name="extentions_statusbar_title">Status bar</string>
+    <string name="extentions_lockscreen_summary">Lock screen settings and security</string>  
+    <string name="extentions_misc_summary">Extra settings</string>  
+    <string name="extentions_navigation_summary">Navigation bar options</string>  
+    <string name="extentions_quicksettings_summary">Quick Settings customization</string>  
+    <string name="extentions_statusbar_summary">Status bar preferences</string>
+
+</resources>
